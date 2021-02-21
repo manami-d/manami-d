@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Manami
+## Hi there 👋 I'm Manami
 ---
 <!--**manami-d/manami-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 Currently taking Generation Australia's 12 weeks bootcamp to become a web developer!
