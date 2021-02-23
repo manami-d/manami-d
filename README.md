@@ -1,7 +1,8 @@
 ## Hi there 👋 I'm Manami
 
 <!--**manami-d/manami-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-Currently taking Generation Australia's 12 weeks bootcamp to become a web developer!
+Taking Generation Australia's 12 weeks bootcamp to become a web developer!
+Currently learning React <img width="20px" src="./icons/react/react-original-wordmark.svg" alt="react" style="padding:5px; width: 40px;" >
 
 Tech Skills:
 <div style="display:inline-block;" >
