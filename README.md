@@ -2,7 +2,8 @@
 
 <!--**manami-d/manami-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 Taking Generation Australia's 12 weeks bootcamp to become a web developer!
-Currently learning React <img width="20px" src="./icons/react/react-original-wordmark.svg" alt="react" style="padding:5px; width: 40px;" >
+Currently learning React <img width="20px" src="./icons/react/react-original-wordmark.svg" alt="react" style="padding:5px; width: 40px;" > 
+and Ruby on Rails <img width="20px" src="./icons/rails/rails-original-wordmark.svg" alt="rails" style="padding:5px; width: 40px;" > 
 
 Tech Skills:
 <div style="display:inline-block;" >
