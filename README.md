@@ -6,9 +6,9 @@ Currently learning React <img width="20px" src="./icons/react/react-original-wor
 and Ruby on Rails <img width="20px" src="./icons/rails/rails-original-wordmark.svg" alt="rails" style="padding:5px; width: 40px;" > 
 
 ### Check out my portfolio
-[Click here](https://manami-davidson.netlify.app/)
+💻[Click here](https://manami-davidson.netlify.app/)
 
-### Tech Skills:
+### Tech Skills
 <div style="display:inline-block;" >
     <i class="devicon-git-plain"></i>
 <img width="40px" src="./icons/html5/html5-original-wordmark.svg" alt="html5" style="padding:5px; width: 40px;" >
